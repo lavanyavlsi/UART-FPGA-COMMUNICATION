@@ -1,0 +1,10 @@
+
+# Simulation output files
+*.vvp
+*.vcd
+
+# Vivado temporary files
+.Xil/
+*.jou
+*.log
+*.str
